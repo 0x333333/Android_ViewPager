@@ -29,5 +29,12 @@
         android:layout_gravity="center"
         android:padding="16dip"
         android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="click me" />
     
 </LinearLayout>
